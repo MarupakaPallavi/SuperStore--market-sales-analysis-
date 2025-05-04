@@ -47,8 +47,6 @@ The sample Dataset includes data for the Sales of multiple products sold by the 
 
 ## Project Overview 
 
-1. You are working as a analyst in some company,and you are given this particular dataset namely "Superstore Sales Dataset".
+1.  Analyze this particular dataset and using  multiple concepts in Advanced Excel
 
-2.  You are required to analyze this particular dataset and use multiple concepts that you have learnt throughout the course 
-
-3. find out 5 objectives/point which will be combined together into a dashboard.
+2.  5 objectives/point which will be combined together into a dashboard.
